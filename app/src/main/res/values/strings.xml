@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">CarAssignment</string>
+    <string name="cars">Cars</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="submit">Submit</string>
+    <string name="identify">Identify</string>
+    <string name="next">Next</string>
+    <string name="click_on_the_correct_car_image">Click on the correct car image</string>
+    <string name="text_view">Text View</string>
+    <string name="Next">next</string>
+    <string name="click_the_correct_image">Click The Correct Image</string>
+    <string name="textview">TextView</string>
+    <string name="identify_the_car">Identify the Car</string>
+    <string name="advanced_Level">Advanced Level</string>
+    <string name="Submit">Submit</string>
+    <string name="enter_car_manufacturer_name1">Enter Car Manufacturer Name</string>
+    <string name="enter_car_manufacturer_name2">Enter Car Manufacturer Name</string>
+    <string name="enter_car_manufacturer_name3">Enter Car Manufacturer Name</string>
+    <string name="timmer">Timmer</string>
+    <string name="_20_00">20 : 00</string>
+
+    <string-array name="CarBrandsArray">
+        <item>Audi</item>
+        <item>Baic</item>
+        <item>Benz</item>
+        <item>BMW</item>
+        <item>BYD</item>
+        <item>Daimler</item>
+        <item>Datsun</item>
+        <item>Dongfeng</item>
+        <item>FAW</item>
+        <item>Ferrari</item>
+        <item>Ford</item>
+        <item>GAC</item>
+        <item>Geely</item>
+        <item>General Motors</item>
+        <item>GMC</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Infiniti</item>
+        <item>Isuzu</item>
+        <item>Jaguar</item>
+        <item>KIA</item>
+        <item>Lamborghini</item>
+        <item>Lexus</item>
+        <item>Mazda</item>
+        <item>Micro</item>
+        <item>Mitsubishi</item>
+        <item>NIO</item>
+        <item>Nissan</item>
+        <item>Range rover</item>
+        <item>Renault</item>
+        <item>SAIC</item>
+        <item>Stellantis</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>TATA</item>
+        <item>Tesla</item>
+        <item>Toyota</item>
+        <item>Vessel</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+
+    <string-array name="CarNames">
+        <item>audi</item>
+        <item>baic</item>
+        <item>benz</item>
+        <item>bmw</item>
+        <item>byd</item>
+        <item>daimler</item>
+        <item>datsun</item>
+        <item>dongfeng</item>
+        <item>faw</item>
+        <item>ferrari</item>
+        <item>ford</item>
+        <item>gac</item>
+        <item>geely</item>
+        <item>general motors</item>
+        <item>gmc</item>
+        <item>honda</item>
+        <item>hyundai</item>
+        <item>infiniti</item>
+        <item>isuzu</item>
+        <item>jaguar</item>
+        <item>kia</item>
+        <item>lamborghini</item>
+        <item>lexus</item>
+        <item>mazda</item>
+        <item>micro</item>
+        <item>mitsubishi</item>
+        <item>nio</item>
+        <item>nissan</item>
+        <item>range rover</item>
+        <item>renault</item>
+        <item>saic</item>
+        <item>stellantis</item>
+        <item>subaru</item>
+        <item>suzuki</item>
+        <item>tata</item>
+        <item>tesla</item>
+        <item>toyota</item>
+        <item>vessel</item>
+        <item>volkswagen</item>
+        <item>volvo</item>
+    </string-array>
+
+</resources>
